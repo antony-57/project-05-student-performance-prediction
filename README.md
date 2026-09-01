@@ -20,6 +20,13 @@ The model uses:
 * Reading Score
 * Writing Score
 
+## Dataset
+
+This project uses the **Students Performance in Exams** dataset from Kaggle.
+
+Dataset Source:
+https://www.kaggle.com/datasets/spscientist/students-performance-in-exams
+
 ## Workflow
 
 ```text
@@ -87,6 +94,7 @@ student-performance-prediction/
 ├── student_pipeline.pkl
 ├── train.py
 ├── main.py
+├── model_training.ipynb
 ├── requirements.txt
 └── README.md
 ```
