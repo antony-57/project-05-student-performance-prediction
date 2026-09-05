@@ -92,9 +92,8 @@ student-performance-prediction/
 │
 ├── StudentsPerformance.csv
 ├── student_pipeline.pkl
-├── train.py
 ├── main.py
-├── model_training.ipynb
+├── clean_notebook.ipynb
 ├── requirements.txt
 └── README.md
 ```
